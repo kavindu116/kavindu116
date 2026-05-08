@@ -14,9 +14,9 @@ I am a final-year Software Engineering Undergraduate at Birmingham City Universi
 - **Web Management System:** A full-stack management portal focusing on secure CRUD operations and efficient database handling using PHP.
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/kavindu-lakshan-368b213a2/
 - **Email:** skavindulakshan675@gmail.com
-- **Portfolio:** [Link to your portfolio if available]
+
 
 ---
 *“Seeking a Software Engineering Internship to apply technical skills in building scalable solutions.”*
